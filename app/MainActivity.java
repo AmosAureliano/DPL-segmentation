@@ -1,1 +1,1 @@
-// MainActivity do app Android - completar depois
+/** Futuro app para testes */

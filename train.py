@@ -7,7 +7,6 @@ from torch.utils.data import DataLoader, Subset
 import torchmetrics
 import matplotlib.pyplot as plt
 
-# Modelo simples de UNet-like usando ResNet como encoder
 import torchvision.models as models
 
 class UNet(nn.Module):

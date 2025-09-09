@@ -27,7 +27,7 @@ def main():
         target_transform=target_transform
     )
 
-    subset = Subset(dataset, range(200))  # avaliação em 200 imagens
+    subset = Subset(dataset, range(200))
     loader = DataLoader(subset, batch_size=4, shuffle=False)
 
     model = UNet(n_classes=2).to(device)

@@ -1,4 +1,4 @@
-# Segmentação Semântica - Oxford-IIIT Pet 🐶🐱
+# Segmentação Semântica
 
 Este projeto implementa uma rede **U-Net** para segmentação semântica no dataset **Oxford-IIIT Pet**.  
 O modelo é treinado em PyTorch, avaliado com IoU e Acurácia, e exportado para uso em um **aplicativo Android**.

@@ -25,6 +25,3 @@ python export_model.py
 O app está na pasta `app/` e usa **PyTorch Mobile**.  
 Coloque o modelo exportado (`unet_pet.pt`) em `app/assets/`.
 
-## 📱 Entregáveis
-- [x] Print do app funcionando
-- [ ] Link do repositório (este aqui)
